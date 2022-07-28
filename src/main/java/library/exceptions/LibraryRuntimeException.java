@@ -1,4 +1,4 @@
-package com.library.exceptions;
+package library.exceptions;
 
 public class LibraryRuntimeException extends RuntimeException{
     public LibraryRuntimeException() {

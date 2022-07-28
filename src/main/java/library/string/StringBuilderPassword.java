@@ -1,4 +1,4 @@
-package com.library.string;
+package library.string;
 
 public class StringBuilderPassword {
     public static void randomNumber(int size){

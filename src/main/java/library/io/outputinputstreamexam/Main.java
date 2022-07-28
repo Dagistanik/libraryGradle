@@ -1,4 +1,4 @@
-package com.library.io.outputinputstreamexam;
+package library.io.outputinputstreamexam;
 
 
 public class Main {

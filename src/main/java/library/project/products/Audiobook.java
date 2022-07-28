@@ -1,4 +1,4 @@
-package com.library.project.products;
+package library.project.products;
 
 public class Audiobook extends DVD {
     public Audiobook(int id, String title, int sizeMegabytes) {

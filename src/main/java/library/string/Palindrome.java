@@ -1,4 +1,4 @@
-package com.library.string;
+package library.string;
 
 public class Palindrome {
     public static String palindrome(String word){

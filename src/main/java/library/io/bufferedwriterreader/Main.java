@@ -1,4 +1,4 @@
-package com.library.io.bufferedwriterreader;
+package library.io.bufferedwriterreader;
 
 import java.io.IOException;
 

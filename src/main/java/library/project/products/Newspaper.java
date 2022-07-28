@@ -1,4 +1,4 @@
-package com.library.project.products;
+package library.project.products;
 
 import com.library.project.random.MothsOfYear;
 

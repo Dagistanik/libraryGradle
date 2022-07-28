@@ -1,4 +1,4 @@
-package com.library.string;
+package library.string;
 
 public class Compare {
     public static void wordCompare(String firstWord, String secondWord){

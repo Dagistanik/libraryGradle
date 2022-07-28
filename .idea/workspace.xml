@@ -4,7 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a22e66c-4716-4b38-804b-2f4e2f5d9109" name="Changes" comment="" />
+    <list default="true" id="7a22e66c-4716-4b38-804b-2f4e2f5d9109" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/exceptions/BookAlreadyExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/exceptions/InvalidBookDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/exceptions/LibraryException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/exceptions/LibraryRuntimeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/io/bufferedwriterreader/BufferedWriterReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/io/bufferedwriterreader/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/io/dataoutputinputstream/DataOutputInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/io/dataoutputinputstream/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/io/exception/Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/io/library/Buffered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/io/outputinputstreamexam/InputOutputStreamExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/io/outputinputstreamexam/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/ListsBooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/products/Audiobook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/products/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/products/DVD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/products/Journal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/products/Newspaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/products/Periodical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/products/Publication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/products/Videogame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/random/MonthRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/random/MothsOfYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/string/Compare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/string/Encoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/string/Encoding2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/string/MirrorCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/string/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/string/Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/string/StringBufferPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/library/string/StringBuilderPassword.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,11 +63,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2CZIXpJSxFHbOJHLqWetEpoSRfL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "E:/study/LibraryMaven"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\study\libraryGradle\src\main\java" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -32,7 +90,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659003722651</updated>
+      <workItem from="1659003725248" duration="2838000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

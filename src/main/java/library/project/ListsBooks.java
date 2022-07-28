@@ -1,4 +1,4 @@
-package com.library.project;
+package library.project;
 
 
 import com.library.project.products.Book;

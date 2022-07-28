@@ -1,4 +1,4 @@
-package com.library.string;
+package library.string;
 
 public class MirrorCopy {
     public static void mirror(String word){

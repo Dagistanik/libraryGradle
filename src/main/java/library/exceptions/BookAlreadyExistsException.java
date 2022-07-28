@@ -1,4 +1,4 @@
-package com.library.exceptions;
+package library.exceptions;
 
 public class BookAlreadyExistsException extends LibraryRuntimeException {
 

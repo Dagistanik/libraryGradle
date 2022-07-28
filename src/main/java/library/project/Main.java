@@ -1,4 +1,4 @@
-package com.library.project;
+package library.project;
 
 public class Main {
     public static void main(String[] args) {

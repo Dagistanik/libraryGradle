@@ -1,4 +1,4 @@
-package com.library.project.products;
+package library.project.products;
 
 public class Videogame extends DVD{
     public Videogame(int id, String title, int sizeMegabytes) {

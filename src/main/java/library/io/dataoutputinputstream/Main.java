@@ -1,4 +1,4 @@
-package com.library.io.dataoutputinputstream;
+package library.io.dataoutputinputstream;
 
 import java.io.IOException;
 

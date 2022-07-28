@@ -1,4 +1,4 @@
-package com.library.project.random;
+package library.project.random;
 
 public enum MothsOfYear {
     JANUARY ("January"),

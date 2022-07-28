@@ -1,4 +1,4 @@
-package com.library.string;
+package library.string;
 
 import java.io.UnsupportedEncodingException;
 import java.nio.charset.StandardCharsets;

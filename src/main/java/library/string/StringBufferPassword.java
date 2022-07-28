@@ -1,4 +1,4 @@
-package com.library.string;
+package library.string;
 
 public class StringBufferPassword {
     public static String randonMumber(int size){
