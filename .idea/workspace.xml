@@ -4,56 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a22e66c-4716-4b38-804b-2f4e2f5d9109" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/exceptions/BookAlreadyExistsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/exceptions/InvalidBookDataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/exceptions/LibraryException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/exceptions/LibraryRuntimeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/io/bufferedwriterreader/BufferedWriterReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/io/bufferedwriterreader/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/io/dataoutputinputstream/DataOutputInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/io/dataoutputinputstream/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/io/exception/Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/io/library/Buffered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/io/outputinputstreamexam/InputOutputStreamExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/io/outputinputstreamexam/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/ListsBooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/products/Audiobook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/products/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/products/DVD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/products/Journal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/products/Newspaper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/products/Periodical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/products/Publication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/products/Videogame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/random/MonthRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/project/random/MothsOfYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/string/Compare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/string/Encoding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/string/Encoding2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/string/MirrorCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/string/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/string/Password.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/string/StringBufferPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/string/StringBuilderPassword.java" afterDir="false" />
+    <list default="true" id="7a22e66c-4716-4b38-804b-2f4e2f5d9109" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/exceptions/BookAlreadyExistsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/exceptions/BookAlreadyExistsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/exceptions/InvalidBookDataException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/exceptions/InvalidBookDataException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/exceptions/LibraryException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/exceptions/LibraryException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/exceptions/LibraryRuntimeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/exceptions/LibraryRuntimeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/io/bufferedwriterreader/BufferedWriterReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/io/bufferedwriterreader/BufferedWriterReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/io/bufferedwriterreader/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/io/bufferedwriterreader/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/io/dataoutputinputstream/DataOutputInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/io/dataoutputinputstream/DataOutputInputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/io/dataoutputinputstream/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/io/dataoutputinputstream/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/io/exception/Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/io/exception/Exception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/io/library/Buffered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/io/library/Buffered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/io/outputinputstreamexam/InputOutputStreamExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/io/outputinputstreamexam/InputOutputStreamExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/io/outputinputstreamexam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/io/outputinputstreamexam/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/ListsBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/ListsBooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/products/Audiobook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/products/Audiobook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/products/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/products/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/products/DVD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/products/DVD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/products/Journal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/products/Journal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/products/Newspaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/products/Newspaper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/products/Periodical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/products/Periodical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/products/Publication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/products/Publication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/products/Videogame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/products/Videogame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/random/MonthRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/random/MonthRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/random/MothsOfYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/random/MothsOfYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/string/Compare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/string/Compare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/string/Encoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/string/Encoding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/string/Encoding2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/string/Encoding2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/string/MirrorCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/string/MirrorCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/string/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/string/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/string/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/string/Password.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/string/StringBufferPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/string/StringBufferPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/string/StringBuilderPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/string/StringBuilderPassword.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -74,13 +68,30 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "E:/study/LibraryMaven"
+    "last_opened_file_path": "E:/libr/junit-4.13.2.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\study\libraryGradle\src\main\java" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.library.project.Library" />
+      <module name="libraryGradle.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Library" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -90,8 +101,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659003722651</updated>
-      <workItem from="1659003725248" duration="2838000" />
+      <workItem from="1659003725248" duration="6832000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1659007441648</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659007441648</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,5 +126,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>

@@ -1,28 +1,37 @@
-plugins {
-    id 'java'
-    id 'war'
-    id 'org.gretty' version '3.0.4'
-}
+group 'com.library.project'
+version '1.0.0'
 
-group 'org.example'
-version '1.0-SNAPSHOT'
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
 
 repositories {
     mavenCentral()
 }
 
-dependencies {
-    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
-    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
+jar {
+    manifest {
+        attributes 'Main-Class': 'com.library.project.Library'
+    }
 }
 
-tasks.withType(javax.tools.JavaCompiler){
-    sourceCompatibility = '1.8'
-    targetCompatibility = '1.8'
-
-    options.encoding = "UTF-8"
-}
-
-test {
-    useJUnitPlatform()
-}
+//plugins {
+//    id 'java'
+//}
+//
+//group 'org.example'
+//version '1.0-SNAPSHOT'
+//
+//repositories {
+//    mavenCentral()
+//}
+//
+//dependencies {
+//    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
+//    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
+//}
+//
+//
+//test {
+//    useJUnitPlatform()
+//}
