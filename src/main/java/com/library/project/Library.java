@@ -8,7 +8,7 @@ import java.util.*;
 
 public class Library {
 
-    protected  List <Publication> publications;
+    public List <Publication> publications;
     protected Map <Integer, Publication> publicationsMap;
 
     public Library(int maxBooks) {
@@ -119,7 +119,6 @@ public class Library {
         } else {
             throw new LibraryException("there is no book with this id");
         }
-        //используя эти способы - проверить является ли p Книгой
 
         // a instanceof ClassA
         // a.getClass().equals()
@@ -174,7 +173,7 @@ public class Library {
     public void delete(int id) throws LibraryException {
         Publication p = findById(id);
         if(p==null){
-            throw new LibraryException("Не существует записи с id = " + id);
+            throw new LibraryException("There is no record with id = " + id);
         }
         publications.remove(p);
         publicationsMap.remove(id);

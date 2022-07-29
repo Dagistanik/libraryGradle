@@ -4,42 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a22e66c-4716-4b38-804b-2f4e2f5d9109" name="Changes" comment="first commit">
+    <list default="true" id="7a22e66c-4716-4b38-804b-2f4e2f5d9109" name="Changes" comment="added changes to build.gradle">
+      <change afterPath="$PROJECT_DIR$/src/test/java/library/project/LibraryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/library/string/MirrorCopyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/library/string/PalindromeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/exceptions/BookAlreadyExistsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/exceptions/BookAlreadyExistsException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/exceptions/InvalidBookDataException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/exceptions/InvalidBookDataException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/exceptions/LibraryException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/exceptions/LibraryException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/exceptions/LibraryRuntimeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/exceptions/LibraryRuntimeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/io/bufferedwriterreader/BufferedWriterReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/io/bufferedwriterreader/BufferedWriterReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/io/bufferedwriterreader/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/io/bufferedwriterreader/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/io/dataoutputinputstream/DataOutputInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/io/dataoutputinputstream/DataOutputInputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/io/dataoutputinputstream/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/io/dataoutputinputstream/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/io/exception/Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/io/exception/Exception.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/io/library/Buffered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/io/library/Buffered.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/io/outputinputstreamexam/InputOutputStreamExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/io/outputinputstreamexam/InputOutputStreamExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/io/outputinputstreamexam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/io/outputinputstreamexam/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/ListsBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/ListsBooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/products/Audiobook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/products/Audiobook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/products/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/products/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/products/DVD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/products/DVD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/products/Journal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/products/Journal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/products/Newspaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/products/Newspaper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/products/Periodical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/products/Periodical.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/products/Publication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/products/Publication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/products/Videogame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/products/Videogame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/random/MonthRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/random/MonthRandom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/project/random/MothsOfYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/random/MothsOfYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/string/Compare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/string/Compare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/string/Encoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/string/Encoding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/string/Encoding2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/string/Encoding2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/string/MirrorCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/string/MirrorCopy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/string/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/string/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/string/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/string/Password.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/string/StringBufferPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/string/StringBufferPassword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/string/StringBuilderPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/string/StringBuilderPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/library/project/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/project/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/library/string/MirrorCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/string/MirrorCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/library/string/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/string/Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +27,36 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="libraryGradle" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="libraryGradle" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="libraryGradle" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,28 +72,147 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "E:/libr/junit-4.13.2.jar",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "last_opened_file_path": "E:/study/LibraryMaven/pom.xml",
     "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.38822448"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\study\libraryGradle\src\test\java\library\string" />
+      <recent name="E:\study\libraryGradle\src\test\java" />
       <recent name="E:\study\libraryGradle\src\main\java" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="library.project" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.library.project.Library" />
-      <module name="libraryGradle.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+  <component name="RunManager" selected="Gradle.Tests in 'libraryGradle.test'">
+    <configuration name="LibraryTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;library.project.LibraryTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LibraryTest.getBooksTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;library.project.LibraryTest.getBooksTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MirrorCopyTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;library.string.MirrorCopyTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'libraryGradle.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'library.string'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;library.string.*&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Library" />
+        <item itemvalue="Gradle.Tests in 'libraryGradle.test'" />
+        <item itemvalue="Gradle.LibraryTest" />
+        <item itemvalue="Gradle.LibraryTest.getBooksTest" />
+        <item itemvalue="Gradle.MirrorCopyTest" />
+        <item itemvalue="Gradle.Tests in 'library.string'" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +224,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659003722651</updated>
-      <workItem from="1659003725248" duration="6832000" />
+      <workItem from="1659003725248" duration="7681000" />
+      <workItem from="1659067266115" duration="10000" />
+      <workItem from="1659082552563" duration="455000" />
+      <workItem from="1659087330757" duration="3320000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1659007441648</created>
@@ -110,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659007441648</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added changes to build.gradle">
+      <created>1659014480428</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659014480428</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +262,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="added changes to build.gradle" />
+    <option name="LAST_COMMIT_MESSAGE" value="added changes to build.gradle" />
   </component>
 </project>
